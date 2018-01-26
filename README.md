@@ -1,2 +1,2 @@
 # hello-world
-Here we go.
+Web Designer trying to transition to Web Developer and Coder.
